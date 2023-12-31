@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshitha19z
 - 👀 I’m interested in programming
 - 🌱 I’m currently developing my skills in programming language 
-- 📫 How to reach me here 
+- 📫 How to reach me here @in/akshitharavulakola
 
 <!---
 akshitha19z/akshitha19z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
